@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WillyPgit/node-weather/issues"
   },
-  "homepage": "https://github.com/WillyPgit/node-weather#readme"
+  "homepage": "https://github.com/WillyPgit/node-weather#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
